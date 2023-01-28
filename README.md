@@ -142,7 +142,7 @@ def rectarea(request):
 ![OUTPUT](./out.png)
 
 ### Home Page:
-![home](https://user-images.githubusercontent.com/119393675/215282521-b7febe84-019a-4d3a-84e4-afcbde170362.png)
+![home](./home.png)
 
 ## Result:
 The program for implementing server side processing is completed successfully.
