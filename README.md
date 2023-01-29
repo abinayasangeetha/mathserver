@@ -137,7 +137,7 @@ def rectarea(request):
         context['b'] = b
         print('Area=',area)
     return render(request,'myapp/math.html',context)
-
+```
 ## OUTPUT:
 ![OUTPUT](./out.png)
 
